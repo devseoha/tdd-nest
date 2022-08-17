@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91d000b4-2672-44da-a527-5d9c2a030075" name="Changes" comment="Add. 몽고디비 연결">
-      <change afterPath="$PROJECT_DIR$/test/unit/products.test.js" afterDir="false" />
+    <list default="true" id="91d000b4-2672-44da-a527-5d9c2a030075" name="Changes" comment="Add. 모델에 오타가 있었다.. 세상에">
+      <change afterPath="$PROJECT_DIR$/test/data/new-product.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/products.js" beforeDir="false" afterPath="$PROJECT_DIR$/controller/products.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/unit/products.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/unit/products.test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,6 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "code.cleanup.on.save": "true",
-    "js.linters.configure.manually.selectedeslint": "true",
     "last_opened_file_path": "/Users/seohakang/Documents/tdd_test/test/intergration",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
@@ -97,7 +97,7 @@
       <workItem from="1660613160420" duration="2496000" />
       <workItem from="1660652094371" duration="725000" />
       <workItem from="1660652824867" duration="47000" />
-      <workItem from="1660652875851" duration="3555000" />
+      <workItem from="1660652875851" duration="7911000" />
     </task>
     <task id="LOCAL-00002" summary="Add. 몽고디비 연결">
       <created>1660611475190</created>
@@ -113,7 +113,28 @@
       <option name="project" value="LOCAL" />
       <updated>1660653756359</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add. jest 테스트 코드 생성">
+      <created>1660737753853</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660737753853</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add. 모델에 오타가 있었다.. 세상에">
+      <created>1660739972120</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660739972120</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add. 모델에 오타가 있었다.. 세상에">
+      <created>1660740503005</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1660740503005</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +154,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add. 컨트롤러 생성" />
     <MESSAGE value="Add. 몽고디비 연결" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add. 몽고디비 연결" />
+    <MESSAGE value="Add. jest 테스트 코드 생성" />
+    <MESSAGE value="Add. 모델에 오타가 있었다.. 세상에" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add. 모델에 오타가 있었다.. 세상에" />
   </component>
 </project>
